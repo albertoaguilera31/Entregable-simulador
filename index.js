@@ -53,7 +53,7 @@ if(inicio==="iniciar"){
                     alert("Respuesta incorrecta, gracias por participar. ¡Suerte para los próximos concursos que tendremos!");
                     break;
                     default:
-                    alert("Lo sentimos, eligiste una opción fuera de las opciones disponibles, has perdido tu oportunidad.")
+                    alert("Lo sentimos, elegiste una opción fuera de las opciones disponibles, has perdido tu oportunidad.")
             }
     
         } else {
