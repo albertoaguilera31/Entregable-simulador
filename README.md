@@ -7,6 +7,6 @@ Primer entregable para el curso de JavaScript de Coderhouse.
         elegir entre empezar con 2 clases gratuitas o un descuento de 50% en la mensualidad. Finalmente el usuario tendrá la opción de participar 
         de manera voluntaria en un concurso en el podrá obtener un premio si elige la respuesta correcta a la pregunta que se le realizará.
         
-        Para realizar este simulador utilicé estructuras de control como if y switch para procesar las respuestas introducidas del usuario. 
-        Tambié utilicé bucles while para evitar que el usuario introduzca opciones diferentes a las solicitadas y por último utilicé funciones 
+        Para realizar este simulador utilicé estructuras de control como if y switch para procesar las respuestas introducidas por el usuario. 
+        También utilicé bucles while para evitar que el usuario introduzca opciones diferentes a las solicitadas, y por último utilicé funciones 
         para agrupar los códigos asociados a las funcionalidades de registro del usuario y de participación en el concurso opcional.
